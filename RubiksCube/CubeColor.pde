@@ -1,0 +1,3 @@
+enum CubeColor {
+  WHITE, GREEN, RED, BLUE, ORANGE, YELLOW, NONE
+}
