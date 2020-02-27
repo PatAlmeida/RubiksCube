@@ -553,7 +553,7 @@ class Cube {
         
       case DONE:
       
-        boolean optimizing = true;
+        /* boolean optimizing = true;
         int i = 0;
         ArrayList<String> newSolve = new ArrayList<String>();
         while (optimizing) {
@@ -563,7 +563,7 @@ class Cube {
           if (i < solveMoveList.size()) {
             
           }
-        }
+        } */
         
         doneSolving = true;
       
